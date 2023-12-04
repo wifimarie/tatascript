@@ -1,2 +1,5 @@
 # tatascript
-portfolio website by pochi 
+
+portfolio website
+
+(c) pochi
