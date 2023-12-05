@@ -1,0 +1,47 @@
+.header {
+  align-items: flex-end;
+  background-color: var(--background);
+  display: flex;
+  justify-content: space-between;
+  padding: 32px 0px 8px;
+  position: relative;
+  width: 1024px;
+}
+
+.header .frame-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.header .design-component-instance-node {
+  background-image: url(../../../static/img/union-5.svg) !important;
+  height: 16px !important;
+  width: 16px !important;
+}
+
+.header .text-wrapper-12 {
+  color: var(--white);
+  font-family: "Fira Code", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.header .frame-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.header .design-component-instance-node-2 {
+  flex: 0 0 auto !important;
+}

@@ -1,0 +1,27 @@
+.dots {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 84px;
+  justify-content: space-between;
+  position: relative;
+  width: 84px;
+}
+
+.dots .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.dots .ellipse {
+  background-color: var(--gray);
+  border-radius: 2px;
+  height: 4px;
+  position: relative;
+  width: 4px;
+}

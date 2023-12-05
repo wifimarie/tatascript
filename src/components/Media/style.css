@@ -1,0 +1,30 @@
+.media {
+  align-items: center;
+  display: inline-flex;
+  gap: 5px;
+  position: relative;
+}
+
+.media .elias {
+  font-family: "Fira Code", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.media .twitter {
+  height: 32px !important;
+  position: relative !important;
+  width: 32px !important;
+}
+
+.media .default {
+  color: var(--gray);
+}
+
+.media .hover {
+  color: var(--white);
+}
